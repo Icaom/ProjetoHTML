@@ -1,0 +1,45 @@
+.vermelho
+         {
+            color: red;
+            
+            
+        }
+        .azul
+         {
+            color: blue;
+            text-align: center;
+            
+            
+        }
+        .verde
+         {
+            color: green;
+            
+            
+        }
+        .foto {
+            display: flex;
+            justify-content: center;
+        }
+        .botao_verde {
+             background-color: green; 
+             color:white; 
+             border:none;
+             padding: 15px;
+             font-size: 16px;
+
+        }
+        .botao_azul {
+             background-color: blue; 
+             color:white; 
+             border:none;
+             padding: 15px;
+             font-size: 16px;
+
+        }
+        .body{
+            background-image: url(imagemback.jpg );
+            background-repeat: repeat;
+            
+
+        }
